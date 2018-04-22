@@ -1,7 +1,7 @@
 # rapidata_2018
 Preparing your laptop to execute the Jupyter notebook example.  These instructions assume MacOSX.
 
-Preapre an empty directory $INSTALLDIR and open a Terminal window
+Prepare an empty directory $INSTALLDIR and open a Terminal window
 
 cd $INSTALLDIR
 
