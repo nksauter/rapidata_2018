@@ -10,7 +10,7 @@ curl https://repo.continuum.io/miniconda/Miniconda2-latest-MacOSX-x86_64.sh > Mi
 chmod +x Miniconda2-latest-MacOSX-x86_64.sh
 
 ./Miniconda2-latest-MacOSX-x86_64.sh # script will prompt with several questions
-# answer that prefix is $INSTALLDIR/miniconda2 (do not install in global applications directory)
+> # answer that prefix is $INSTALLDIR/miniconda2 (do not install in global applications directory)
 
 source miniconda2/etc/profile.d/conda.sh
 
